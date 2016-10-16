@@ -1,0 +1,31 @@
+h1 {
+    color: darkorange;
+    font-family: Comic Sans MS;
+    font-size: 2em;
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+}
+iframe {
+    width: 780px;
+    height: 700px;
+    border: 3px dashed grey;
+}
+
+p {
+    color: grey;
+    font-weight: bold;
+    font-family: Comic Sans MS;
+    font-size: 1.3em;
+    text-align: center;
+    
+}
+
+a {
+    color: firebrick;
+    font-weight: normal;
+    text-decoration: none;
+}
