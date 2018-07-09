@@ -1,6 +1,6 @@
 h1 {
-    color: darkorange;
-    font-family: Comic Sans MS;
+    color: black;
+    font-family: Berlin sans fb;
     font-size: 2em;
     text-align: center;
 }
@@ -11,14 +11,14 @@ div {
 }
 iframe {
     width: 780px;
-    height: 700px;
-    border: 3px dashed grey;
+    height: 755px;
+    border: 5px solid grey;
 }
 
 p {
     color: grey;
     font-weight: bold;
-    font-family: Comic Sans MS;
+    font-family: Berlin sans fb;
     font-size: 1.3em;
     text-align: center;
     
